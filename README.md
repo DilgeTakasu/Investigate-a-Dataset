@@ -1,6 +1,6 @@
 # Medical Appointment No-Shows Analysis
 
-[ **Click Here to View the Full Analysis Report (Rendered HTML)**](https://dilgetakasu.github.io/Medical-Appointment-No-Shows/Investigate_a_Dataset.html)
+[ **Click Here to View the Full Analysis Report (Rendered HTML)**](https://dilgetakasu.github.io/Investigate-a-Dataset/)
 
 This project investigates a dataset of 100k medical appointments in Brazil to identify factors associated with patients missing their scheduled appointments ("No-shows"). The analysis focuses on Exploratory Data Analysis (EDA) to uncover trends related to demographics, health conditions, and notification systems.## Project Overview
 * **Goal:** To answer the question: *"What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?"*
@@ -18,7 +18,7 @@ The dataset is originally from [Kaggle](https://www.kaggle.com/datasets/joniarro
 * `SMS_received`: 1 or more messages sent to the patient.
 * `No-show`: **Target Variable.** (Encoded as 'No' if the patient **showed up**, 'Yes' if they *
 
-> **Note on Data Privacy & Distribution:** The raw `.csv` dataset is not included in this repository. It can be downloaded directly from the Kaggle link provided above.e linrovided above.
+> **Note on Data Privacy & Distribution:** The raw `.csv` dataset is not included in this repository. It can be downloaded directly from the Kaggle link provided above.
 
 ## Key Findings & Insights
 Based on the exploratory analysis, the following trends were observed:
