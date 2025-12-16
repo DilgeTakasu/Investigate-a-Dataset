@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+Database_No_show_appointments/
